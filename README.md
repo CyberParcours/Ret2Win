@@ -71,7 +71,7 @@ Bonne chasse. 🐉
 > Le writeup révèle l'intégralité du chemin d'exploitation de la
 > machine. Il est recommandé de terminer Ret2Win avant de le consulter.
 
-➡️ **[Consulter le writeup officiel](writeup/Writeup_Ret2Win.md)**
+➡️ **[Consulter le writeup officiel](/Writeup_Ret2Win.md)**
 
 ## ⚠️ Utilisation
 
