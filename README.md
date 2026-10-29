@@ -71,7 +71,7 @@ Bonne chasse. 🐉
 > Le writeup révèle l'intégralité du chemin d'exploitation de la
 > machine. Il est recommandé de terminer Ret2Win avant de le consulter.
 
-➡️ **[Consulter le writeup officiel](writeup/WRITEUP.md)**
+➡️ **[Consulter le writeup officiel](writeup/Writeup_Ret2Win.md)**
 
 ## ⚠️ Utilisation
 
@@ -85,7 +85,7 @@ explicite.
 
 ## 👤 Auteur
 
-**Alex - CyberParcours**
+**Alexandru Stancu - CyberParcours**
 
 Machine CTF et writeup créés pour **creed-ctf.fr**.
 
